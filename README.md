@@ -18,7 +18,7 @@ AZSS.GG는 게임 속 경험과 실력을 공유 할 수 있는 공간 입니다
 
 - <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white%22"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white%22">
 
-- <img src="https://img.shields.io/badge/database-%23121011?style=for-the-badge">
+- <img src="https://img.shields.io/badge/database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/mysql-ECD53F?style=for-the-badge&logo=mysql&logoColor=white%22">
 ## 📌 주요기능 
 - 일기 예보 기능
 - 계절에 맞는 코디 추천
