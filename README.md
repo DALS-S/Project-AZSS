@@ -21,9 +21,10 @@ AZSS.GG는 게임 속 경험과 실력을 공유 할 수 있는 공간 입니다
 - <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/bootstrap-A6A9AA?style=for-the-badge&logo=bootstrap&logoColor=white%22">
 
 ## 📌 주요기능 
-- 일기 예보 기능
-- 계절에 맞는 코디 추천
-- 코디 추천을 통한 코디 상품 구매
-- 패션 뉴스 제공
-- 코디 강좌 제공
+- 회원 로그인 / 로그아웃
+- 회원 정보 수정 / 탈퇴
+- 게시판 별 게시물 작성
+- 최신 글 보기 기능
+- 게시판 내 검색 기능
+- 실시간 채팅(대화) 기능
 
