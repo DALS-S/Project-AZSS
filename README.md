@@ -12,7 +12,7 @@ AZSS.GG는 게임 속 경험과 실력을 공유 할 수 있는 공간 입니다
 ## 🧑‍🤝‍🧑 개발 참여 인원 4명
 
 ### ⚙ 개발 환경
-- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/html-302683?style=for-the-badge&logo=html5&logoColor=white%22"><img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white%22"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white%22"><img src="https://img.shields.io/badge/java%20script-000000?style=for-the-badge&logo=javascript&logoColor=white%22">
+- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/html-302683?style=for-the-badge&logo=html5&logoColor=white%22"><img src="https://img.shields.io/badge/java-FF7800?style=for-the-badge&logo=java&logoColor=white%22"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white%22"><img src="https://img.shields.io/badge/java%20script-000000?style=for-the-badge&logo=javascript&logoColor=white%22"><img src="https://img.shields.io/badge/jsp-ffa500?style=for-the-badge&logo=jsp&logoColor=white%22">
 
 - <img src="https://img.shields.io/badge/Tools-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white%22"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white%22">
 
